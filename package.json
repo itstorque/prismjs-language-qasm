@@ -1,0 +1,29 @@
+{
+  "name": "prismjs-language-qasm",
+  "version": "1.0.0",
+  "description": "QASM syntax highlighting for Prism.js using the OpenQASM spec",
+  "main": "prismjs-language-qasm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tareqdandachi/prismjs-language-qasm.git"
+  },
+  "keywords": [
+    "qasm",
+    "openqasm",
+    "prismjs",
+    "language",
+    "highlight"
+  ],
+  "author": "Tareq El Dandachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tareqdandachi/prismjs-language-qasm/issues"
+  },
+  "homepage": "https://github.com/tareqdandachi/prismjs-language-qasm#readme",
+  "dependencies": {
+    "prismjs": "^1.21.0"
+  }
+}
